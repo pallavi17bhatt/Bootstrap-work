@@ -1,6 +1,6 @@
 Bootstrap-work
 ================
 
-###Practice Projects
+### Practice Projects
 
 * conFusion: Initial setup for bootstrap.
